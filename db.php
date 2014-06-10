@@ -3,8 +3,9 @@
  * Created by PhpStorm.
  * User: AlexChe
  * Date: 10.06.14
- * Time: 18:53
+ * Time: 19:12
  */
-    echo "helo gadfil";
-//
+
+    //Connect to database!
+
 ?>
