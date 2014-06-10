@@ -6,7 +6,4 @@
  * Time: 19:12
  */
 
-    //Connect to database!
-//Hello
-
 ?>
